@@ -91,9 +91,6 @@ public class Main {
             } else {
                 System.out.println("Максимальное число ы=в переменной three равно " + three);
             }
-
         }
-
-
     }
 }
