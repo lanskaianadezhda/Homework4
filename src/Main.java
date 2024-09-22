@@ -82,7 +82,7 @@ public class Main {
 
         int one = 11;
         int two = 7;
-        int three = 51;
+        int three = 52;
         if (one  >= two && one >= three) {
             System.out.println("Максимальное число в переменной one равно " + one);
         } else {
